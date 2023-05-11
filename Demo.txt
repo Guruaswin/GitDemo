@@ -1,5 +1,2 @@
 Hello world!!!
 I am learning GitHub
-
-
-Github is fun to learn
