@@ -1,5 +1,2 @@
 Hey there, I am from master branch
 My name is SubBranch2
-
-master
-master
